@@ -40,3 +40,4 @@ Theory notes and derivations live in **notes/**.
     labs/           weekly practice notebooks
     src/genai/      shared utilities (data, training, plotting)
     assets/         figures and generated samples
+..
